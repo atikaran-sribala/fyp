@@ -1,6 +1,6 @@
 # Final Year Project: Comparing the Lee-Carter and Cairns-Blake-Dowd Stochastic Mortality Models: A Backtesting and Sensitivity Analysis Using England and Wales Mortality Data
 ## R code for my BSc Actuarial Science Final Year Project
-## The StMoMo package by Villegas et al (2018) was used.
+## The StMoMo package by Villegas et al. (2018) was used.
 
 ## Data
 England and Wales mortality data was accessed from the Human Mortality Database through the demography package
